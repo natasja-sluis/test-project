@@ -1,0 +1,12 @@
+h1 {
+    background: lightblue;
+}
+
+h2 {
+    background: deeppink;
+}
+
+ul > li {
+    color: red;
+}
+
